@@ -1,8 +1,8 @@
 {
   "name": "singleton-process",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "engines": {
-    "node": "0.10.24"
+    "node": ">=0.10.24"
   },
   "description": "Enforce a single instance of a node.js process across multiple hosts",
   "main": "./lib/index.js",
